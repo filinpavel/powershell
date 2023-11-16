@@ -1,0 +1,1 @@
+﻿ for ($i=0;$i -lt 6;$i++){[System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String("WDVPIVAlQEFQWzRcUFpYNTQoUF4pN0NDKTd9JEVJQ0FSLVNUQU5EQVJELUFOVElWSVJVUy1URVNULUZJTEUhJEgrSCo="))| Set-Content EICAR$i.txt}
